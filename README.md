@@ -18,26 +18,13 @@ ik denk dat dit script voldoet aan de DRY script omdat het meerdere functies hee
 (C:\Users\bakme\Tower Defensee\Assets\Scripts.cs)
 
 ## Product 2: "Projectmappen op GitHub"
-
-Je commit de mappenstructuur van je unity project op github en verwijst vanuit je readme naar de root map van je project. Met een netjes en goed gestructureerde mappenstructuur en benamingen van files toon je aan dat je dit leerdoel beheerst. 
-
-Dit is de [ROOT](/MyTowerDefenseGame/) folder van mijn unity project.
-
-Zorg dat deze verwijst naar je Develop branch.
+.
 
 ## Product 3: Build op Github
 
-Je maakt in Unity een stabiele “build” van je game waarbij bugs en logs eerst zijn verwijderd. Deze buildfiles upload je in je repository onder releases.  Bij eventuele afwijkingen moeten deze worden gedocumenteerd in de release. (Bijv controller nodig of spelen via netwerk etc..) 
-
-[Release Voorbeeld](https://github.com/erwinhenraat/TowerDefenseTemplate/releases)
 
 ## Product 4: Game met Sprites(animations) en Textures 
 
-De build van je game bevat textures, sprites en sprite animations(bijv particles) die op de juiste manier zijn gebruikt en zorgen voor een goede afwerking van je game.  
-
-Plaats in je readme een animated gif van je gameplay (+- 10 sec.) waarin de implementatie van je textures en sprites goed te zien is.
-
-![Textures Sprites](readmeVisuals/texturesSprites.gif)
 
 ## Product 5: Issues met debug screenshots op GitHub 
 
