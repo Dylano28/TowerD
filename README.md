@@ -1,7 +1,11 @@
 # TowerDefenseTemplate
 
 
-Begin met een korte omschrijving van je towerdefense game en hoe deze werkt. Plaats ook een paar screenshots.
+    WELKOM BIJ TOWER DEFENSE!!!
+    dit is mijn tower defense game.
+    het doel van dit spel is de enemies te stoppen voordat ze jou base vernietigen!!
+    je hebt verschillende torens die je kan gebruiken om ze tegen te gaan!!
+    VEEL PLEZIER
 ![Schermafbeelding 2023-10-31 102913](https://github.com/Dylano28/TowerD/assets/102656781/f8e9b72e-1f1e-4f27-ba3d-44f8268cd231)
 
 
